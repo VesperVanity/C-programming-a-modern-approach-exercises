@@ -4,8 +4,10 @@ Exercises - 3. Condense the dweight.c program by (1) replacinng the assignments
 To height, length and width with initializers and (2) removing the weight variable
 Instead calculating (volume + 165) / 166 within the last printf
 */
+//////////////////////////////////////////////////////////////////////////////////
 //Date: 02/24/25
 //Author: VV - VesperVanity - https://github.com/VesperVanity
+
 #include <stdio.h>
 
 int main(void)
