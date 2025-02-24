@@ -1,6 +1,6 @@
 /*
 C Programming - A Modern Approach
-Exercises - 4. Write a program that declares several int and float variables
+Chapter 2 Exercises - 4. Write a program that declares several int and float variables
 without initializing them, and then prints their values
 */
 //////////////////////////////////////////////////////////////////////////////////

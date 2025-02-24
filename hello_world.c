@@ -1,6 +1,6 @@
 /*
 C Programming - A Modern Approach
-Exercises - 1. Create and run Kernighan and Ritchie's famous "hello, world" program:
+Chapter 2 Exercises - 1. Create and run Kernighan and Ritchie's famous "hello, world" program:
 */
 //////////////////////////////////////////////////////////////////////////////////
 //Date: 02/24/25
