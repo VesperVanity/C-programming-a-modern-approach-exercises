@@ -11,7 +11,7 @@ finds the largest and smallest of four integers entered by the user
 
 int main(void)
 {
-	printf("%s", "Enter four integers: ");
+	printf("%s", "Enter four integers to determine which is smallest and largest: ");
 	int num_1 = 0;
 	int num_2 = 0;
 	int num_3 = 0;
