@@ -15,8 +15,10 @@ int main(void)
 	printf("%s", "Enter a two-digit number: ");
 	int number = 0;
 	scanf("%d", &number);
+	
 	int digit_1 = number % 10;
 	int digit_2 = number / 10;
 	printf("%s%d%d\n", "The reversed number is: ", digit_1, digit_2);
+
 	return 0;
 }
