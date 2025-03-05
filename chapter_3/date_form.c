@@ -17,6 +17,8 @@ int main(void)
 	int day = 0;
 	int year = 0;
 	scanf("%d%d%d", &month, &day, &year);
+
+	//Force print limit
 	printf("%s%4d %s%2d %s%2d\n", "Year: ", year, " Month: ", month, " Day: ", day);
 	return 0;
 }
