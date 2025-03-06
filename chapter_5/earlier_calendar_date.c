@@ -54,6 +54,6 @@ int main(void)
 		printf("%s", " is earlier than ");
 		printf("%d%c%d%c%d\n", first_month_input, input_char_1, first_day_input, input_char_2, first_year_input);
 	}
-
+ 
 	return 0;
 }
