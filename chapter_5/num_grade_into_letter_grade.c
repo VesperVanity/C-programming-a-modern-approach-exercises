@@ -12,5 +12,6 @@ write a program that converts a numerical grade into a letter grade
 int main(void)
 {
 	printf("%s", "Enter numerical grade: ");
+	printf("%s", "Currently using new ThinkPad setup: ");
 	return 0;
 }
